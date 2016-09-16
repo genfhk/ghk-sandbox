@@ -1,6 +1,4 @@
 # umhi
-trying this out...
-editing stuff.
 #trying this out...
 #editing stuff.
 #More testing!!! Woo! 
