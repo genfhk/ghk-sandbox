@@ -1,9 +1,8 @@
 # make_bags
 
-#usage: 
-##cd parent/directory/containing/directories/that/need/to/be/bags.
-##-note-the parent directory should have only dir's to make into bags (no stray files, etc.)
-##/path/to/make_bags.sh (enter)
+###usage: 
+* cd parent/directory/containing/directories/that/need/to/be/bags.
+###note: the parent directory should have only dir's to make into bags (no stray files, etc.)
+* /path/to/make_bags.sh (enter)
 
-#note:
-##alter this script to drop log folder into desired path. New version will drop into Home. 
+###note:alter this script to drop log folder into desired path. New version will drop into Home. 
