@@ -2,7 +2,7 @@
 
 ##usage: 
 ```
-cd parent/directory/containing/directories/that/need/to/be/bags.
+cd parent/directory/containing/directories/that/need/to/be/bags
 /path/to/make_bags.sh (enter)
 ```
 
